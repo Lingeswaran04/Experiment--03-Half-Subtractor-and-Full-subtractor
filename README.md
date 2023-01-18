@@ -43,8 +43,11 @@ RegisterNumber:22005148
 
 ## Truthtable
 half subtracter
+
 ![image](https://user-images.githubusercontent.com/119103865/213092766-f2275fb3-8c33-4de4-b41f-d00b48d5d4df.png)
+
 full subtracter
+
 ![image](https://user-images.githubusercontent.com/119103865/213092821-54bf7309-a09c-43fa-9789-9b34e937eb86.png)
 
 
